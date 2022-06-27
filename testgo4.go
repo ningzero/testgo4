@@ -5,5 +5,5 @@ import (
 )
 
 func CallTestgo4() {
-	fmt.Println("CallTestgo4 v1.0.0")
+	fmt.Println("CallTestgo4 v1.0.2")
 }
